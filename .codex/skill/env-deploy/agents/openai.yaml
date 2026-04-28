@@ -1,7 +1,0 @@
-interface:
-  display_name: "Environment Deploy"
-  short_description: "Automate Linux project environment deploys"
-  default_prompt: "Use $env_deploy to automatically detect this project, plan or apply its Linux environment deployment, run applicable tests, and generate deployment artifacts."
-
-policy:
-  allow_implicit_invocation: true
